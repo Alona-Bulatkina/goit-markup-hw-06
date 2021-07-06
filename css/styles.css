@@ -751,6 +751,12 @@ img {
   letter-spacing: 0.06em;
 
   color: #ffffff;
+
+  cursor: pointer;
+}
+.footer-form-button:focus,
+.footer-form-button:hover {
+  background: #2196f3;
 }
 .form-cursor {
   position: absolute;
